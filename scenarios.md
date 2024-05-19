@@ -10,4 +10,18 @@ This is to help users get a handle on their budget over a regular period. Use wh
    Credit Card
    
    Bank Wire transfer
+   
 2. Source of Funds - Income - How much money do you get every month?
+3. Priority Spending items
+   a. Rent
+   b. Food (groceries)
+   c. Transport (to job or school)
+   d. Insurance
+   e. Loans/Debt Payments
+   f. Ex-spouse/Child Support payments
+   g. Communications
+   h. Cleaning
+   i. Entertainment - Club/Bar
+   j. Training
+   
+   
