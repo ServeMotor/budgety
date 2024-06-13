@@ -3,9 +3,13 @@ This is to help users get a handle on their budget over a regular period. Use wh
 *Figure you your budgeting habits* - are you negative every month or do you manage to have a little left over? Do you know how much?
 1. Baseline your expenses with a list of how you pay for things and what you pay for?
   ## Expenses
-   Cash 
+   - Cash
+     - From checking how much spare change you have at the end of the day or
+     - Checking digital apps for how much digital cash you spend daily through the transactions (travel, snacks, meals, etc)
+     - Check what percentage of your spending is cash and if you can accurately forecast it based on day, time or place.
    
-   Smartphone app
+  -  Smartphone app
+    - Use a smartphone app to track your spending.
    
    Credit Card
    
