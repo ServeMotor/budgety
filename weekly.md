@@ -15,6 +15,8 @@ Snacks & Drinks
 
 Fees
 
+Entertainment
+
 ## Weekend
 
 Transport
@@ -27,9 +29,31 @@ Snacks & Drinks
 
 Fees
 
+Entertainment
+
 ## Online
 
 Subscriptions
+
+  - Streaming
+  - Online Media
+  - Apps
+
+## Scheduled
+
+Rent
+
+Credit Card
+
+Loan Payments
+
+Internet
+
+Phone
+
+Utilities
+
+Insurance
 
 
 
